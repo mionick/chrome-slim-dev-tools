@@ -1,0 +1,16 @@
+
+#slim-dev-hover {
+    position: fixed;
+    top: 0;
+    background-color: rgba(30, 30, 30, 0.7);
+    color: white;
+    font-size: 12px;
+    font-family: monospace;
+    border-radius: 5px;
+    z-index: 100000;
+    padding: 10px;
+}
+#slim-dev-hover p {
+    padding: 0;
+    margin: 0;
+}
